@@ -1,7 +1,5 @@
 # Azure CLI Storage
 
-This project demonstrates how to use **Azure CLI** to automate the creation of a storage account, container, and upload a file.
-
 ## What this script does
 - Creates a **resource group**
 - Creates a **storage account**
